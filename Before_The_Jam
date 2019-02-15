@@ -1,0 +1,10 @@
+Before the Jam
+Made the game project titled Glory Run with Unreal 4.20
+Added in the two game modes for the project "Main Menu" and "level"
+Created two level maps for the game "mainmenu" and "levelmap"
+Created three widgets "main menu", "pause" and "game over"
+Added functions to main menu widget
+Added lighting to LevelMap
+Created game hud widget
+Added health and score
+Made coin collect and damage blueprint
